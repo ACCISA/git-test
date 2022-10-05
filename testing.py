@@ -24,4 +24,3 @@ print(time.time() - start_time)
 
 print(nums)
     #aniss has big pp
-# abcdefghijklmnopqrstuvwxyz now i know my abc...
